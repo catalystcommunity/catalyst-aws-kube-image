@@ -59,5 +59,4 @@ RUN adduser -D -H -h /workspace -u ${UID} -G coolgroup cooluser
 RUN chown -R cooluser:coolgroup /workspace
 USER cooluser
 
-#ENTRYPOINT ["/bin/bash"]
 CMD ["bash"]
