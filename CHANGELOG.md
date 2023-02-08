@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/catalystsquad/catalyst-aws-kube-image/compare/v1.0.0...v1.0.1) (2023-02-08)
+
+
+### Bug Fixes
+
+* remove entrypoint commented line ([#2](https://github.com/catalystsquad/catalyst-aws-kube-image/issues/2)) ([6769543](https://github.com/catalystsquad/catalyst-aws-kube-image/commit/67695438b95a2944d9ea376f6a423e7665335494))
+
 # 1.0.0 (2023-02-08)
 
 
