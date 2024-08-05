@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: crazy-max/ghaction-dump-context@v1
-      - uses: catalystsquad/action-validate-conventional-commits-pr@v1
+      - uses: catalystcommunity/action-validate-conventional-commits-pr@v1
   test-build:
     name: Test the Build succeeds
     runs-on: ubuntu-latest
